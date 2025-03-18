@@ -6,7 +6,7 @@ package bloodtestscheduler;
 
 /**
  *
- * @author David Constantin
+ * @author David Constantin.
  */
 // Interface for Queue Management
 /*interface QueueManager {
